@@ -16,6 +16,5 @@ class Solution:
 am = Solution()
 print(am.addTwoNumbers([2,4,3], [5,6,4]))
 print("hi_ there") 
-
 # this code is not yet accepted by leetcode, but it works for the test cases provided
 # this is a test form a windows machine
