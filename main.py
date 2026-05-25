@@ -9,3 +9,5 @@ class Dice:
     
 dice1= Dice()
 print(dice1.roll())
+
+# this is not a leetcode problem, but it is a simple class that simulates rolling two dice
