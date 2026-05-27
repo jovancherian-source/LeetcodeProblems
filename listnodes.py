@@ -3,3 +3,4 @@ real_list = [n for i in list_of_lists for n in i]
 print(real_list)
 
 # this code is accepted bye leetcode
+
