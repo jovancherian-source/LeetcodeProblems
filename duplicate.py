@@ -14,3 +14,5 @@ class Solution():
 
 solution = Solution()
 print(solution.containsDuplicate([1,3]))
+
+#this code is accepted by leetcode and is very efficient.
